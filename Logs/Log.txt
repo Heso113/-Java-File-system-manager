@@ -1,0 +1,25 @@
+Mon Oct 05 16:10:40 CEST 2020 Listed each file in Files folder. Executiontime: 29 ms.
+Mon Oct 05 16:10:42 CEST 2020 Listed each file of type .png Executiontime: 7 ms.
+Mon Oct 05 16:10:46 CEST 2020 Listed each file of type .txt Executiontime: 9 ms.
+Mon Oct 05 16:11:04 CEST 2020 Renamed file from Dracula.txt to Drac.txt. Exectiontime: 2 ms.
+Mon Oct 05 16:11:13 CEST 2020 Renamed file from Drac.txt to Dracula.txt. Exectiontime: 1 ms.
+Mon Oct 05 16:11:17 CEST 2020 Fetched size of file Dracula.txt, it was 883160 bytes in size. Executiontime: 1 ms.
+Mon Oct 05 16:11:23 CEST 2020 Counted the number of lines in Dracula.txt, it contained 15973 lines. Executiontime: 26 ms.
+Mon Oct 05 16:11:36 CEST 2020 Searched for the word DraCUla in Dracula.txt, it occured 42 times. Executiontime: 144 ms.
+Mon Oct 05 16:19:07 CEST 2020 Listed each file in Files folder. Executiontime: 20 ms.
+Mon Oct 05 16:19:18 CEST 2020 Fetched size of file Dracula.txt, it was 883160 bytes in size. Executiontime: 0 ms.
+Mon Oct 05 16:19:37 CEST 2020 Fetched size of file Meme_1.jpeg, it was 64055 bytes in size. Executiontime: 1 ms.
+Tue Oct 06 12:57:19 CEST 2020 Listed each file in Files folder. Executiontime: 32 ms.
+Tue Oct 06 12:57:23 CEST 2020 Listed each file of type .txt Executiontime: 9 ms.
+Tue Oct 06 12:57:36 CEST 2020 Renamed file from Dracula.txt to Drac.txt. Exectiontime: 13 ms.
+Tue Oct 06 12:57:48 CEST 2020 Renamed file from Drac.txt to Dracula.txt. Exectiontime: 1 ms.
+Tue Oct 06 12:57:56 CEST 2020 Counted the number of lines in Dracula.txt, it contained 15973 lines. Executiontime: 28 ms.
+Tue Oct 06 12:58:07 CEST 2020 Searched for the word is in Dracula.txt, it occured 1530 times. Executiontime: 141 ms.
+Tue Oct 06 13:14:46 CEST 2020 Renamed file from Dra.txt to Drl.txt. Exectiontime: 0 ms.
+Tue Oct 06 13:16:51 CEST 2020 Change name of file command failed. Bad filepath.
+Tue Oct 06 13:17:04 CEST 2020 Get size of file command failed. Bad filepath.
+Tue Oct 06 13:17:09 CEST 2020 Get number of lines command failed. Bad filepath.
+Tue Oct 06 13:17:16 CEST 2020 Search for word command failed. Bad filepath.
+Tue Oct 06 13:18:57 CEST 2020 Listed each file of type jfif Executiontime: 18 ms.
+Tue Oct 06 13:35:41 CEST 2020 Listed each file in Files folder. Executiontime: 21 ms.
+Tue Oct 06 13:35:44 CEST 2020 Listed each file of type .png Executiontime: 1 ms.
